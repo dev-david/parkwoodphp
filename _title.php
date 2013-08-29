@@ -15,7 +15,7 @@ $("document").ready(function(){
 	});	
 	$('.main-content-inner').css('display', 'none');
 	$('.main-content-inner').fadeIn(300);
-	$('a').click(function() {
+	$('.button').click(function() {
 		event.preventDefault();
 		newLocation = this.href;
 		$('.main-content-inner').fadeOut(300, newpage);
