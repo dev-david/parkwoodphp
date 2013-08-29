@@ -14,7 +14,8 @@ li {
 
 .btn {
 	border-radius: 0;
-	margin: 2px;
+	width: 100%;
+	margin: 5px;
 }
 
 .btn a {
@@ -70,8 +71,9 @@ li {
 }
 
 .fastagentlogo {
-	height: 71px;
-	width: auto;
+	height: auto;
+	width: 100%;
+	margin: 5px;
 }
 
 

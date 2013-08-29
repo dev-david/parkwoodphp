@@ -6,7 +6,9 @@
 <body>
 <div class="container-fluid">
 	<div class="row-fluid">
-		<div class="main-content center">
+		<!-- ***** INCLUDE FOOTER FOR BUTTON LINKS AND BOTTOM LOGO ***** -->
+		<?php include '_footer.php' ?>
+		<div class="span10 main-content center">
 			<div class="main-content-inner">
 				<div class="row-fluid">
 					<div class="span6">
@@ -65,8 +67,6 @@
 					<div class="clear"></div>
 				</div><br>
 			</div>
-			<!-- ***** INCLUDE FOOTER FOR BUTTON LINKS AND BOTTOM LOGO ***** -->
-			<?php include '_footer.php' ?>
 		</div>
 	</div>
 </div>
