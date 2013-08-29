@@ -31,11 +31,11 @@
 						<p>At Parkwoods you are only a minute away from all major commute routes to San Francisco, Walnut Creek or the North and South Bays by freeway. A short 5 minute drive by car and you can ride free weekdays to San Francisco through the local casual carpool program, 5 more minutes and you will be at the Rockridge BART station or you can walk outside your door of the Parkwoods complex and find the bus stop for the AC Transit Transbay bus to San Francisco waiting for you.</p>
 					</div>
 				</div>
-				<div class="clear"></div>
+				<!-- <div class="clear"></div>
 				<div class="brand-header">
 					<h2 class="h-nice">Parkwood Condos // Ameneties and General Info</h2>
 					<div class="clear"></div>
-				</div><br>
+				</div><br> -->
 			</div>
 		</div>
 	</div>

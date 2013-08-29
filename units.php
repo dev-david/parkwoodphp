@@ -63,11 +63,11 @@
 						<!-- ***** END TABLE INFO FOR AVAILABLE UNITS ***** -->
 					</div>
 				</div>
-				<div class="clear"></div>
+				<!-- <div class="clear"></div>
 				<div class="brand-header">
 					<h2 class="h-nice">Parkwood Condos // Available Units</h2>
 					<div class="clear"></div>
-				</div><br>
+				</div><br> -->
 			</div>
 		</div>
 	</div>
