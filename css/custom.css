@@ -76,7 +76,6 @@ li {
 	margin: 5px;
 }
 
-
 .h-nice {
 	/*font-family: 'Bilbo Swash Caps', cursive;*/
 	text-shadow: -1px 0 #000000, 0 1px #000000, 2px 0 #000000, 0 -1px #000000;
@@ -110,6 +109,12 @@ li {
 	color: #FFFFFF;
 	padding: 10px;
 	font-size: 1.25em;
+}
+
+.mjre {
+	height: auto;
+	width: 100%;
+	margin: 5px;
 }
 
 /*.main-content img {

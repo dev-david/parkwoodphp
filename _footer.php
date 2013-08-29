@@ -4,6 +4,7 @@
 		<a href="units.php"><button type="button" class="btn btn-primary">Available Units</button></a>
 		<a href="infomap.php"><button type="button" class="btn btn-info">Info / Map</button></a>
 		<button type="button" class="btn orangebg">Contact an Agent</button>
-		<img src="images/teamfastagents.jpg" class="fastagentlogo">
+		<a href="http://www.teamfastagents.com" target="_blank"><img src="images/teamfastagents.jpg" class="fastagentlogo"></a>
+		<img src="images/mjrelogo.jpg" class="mjre">
 	</div>
 </div>
