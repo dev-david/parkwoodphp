@@ -1,0 +1,142 @@
+body, html {
+	height: 100%;
+	background: #000000;
+}
+
+li {
+	list-style: none;
+}
+
+table tr a {
+    display:block;
+    height:100%;
+    width:100%;
+}
+
+.brand-header {
+	/*border-bottom: 2px solid #34495e;*/
+	border-bottom: 2px solid #ffffff;
+}
+
+.btn {
+	border-radius: 0;
+	margin: 2px;
+}
+
+.btn a {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.carousel {
+	border: solid 3px #ffffff;
+	max-height: 480px;
+	max-width: 723px;
+}
+
+.carousel.carousel-fade .item {
+  -webkit-transition: opacity 2s ease-in-out;
+  -moz-transition: opacity 2s ease-in-out;
+  -ms-transition: opacity 2s ease-in-out;
+  -o-transition: opacity 2s ease-in-out;
+  transition: opacity 2s ease-in-out;
+}
+
+.carousel.carousel-fade .active.left,
+.carousel.carousel-fade .active.right {
+  left: 0;
+  z-index: 2;
+  opacity: 0;
+  filter: alpha(opacity=0);
+}
+
+.carousel.carousel-fade .next,
+.carousel.carousel-fade .prev {
+  left: 0;
+  z-index: 1;
+}
+
+.carousel.carousel-fade .carousel-control {
+  z-index: 3;
+}
+
+.carouselImg {
+	width: auto;
+	max-height: 480px;
+	margin: 0 auto;
+	background-color: #FFFFFF;
+}
+
+.center {
+	text-align: center;
+}
+
+.clear {
+	clear: both;
+}
+
+.fastagentlogo {
+	height: 71px;
+	width: auto;
+}
+
+.h-nice {
+	/*font-family: 'Bilbo Swash Caps', cursive;*/
+	text-shadow: -1px 0 #000000, 0 1px #000000, 2px 0 #000000, 0 -1px #000000;
+}
+
+.leftbar{
+	font-size: 1.25em;
+	padding: 10px;
+	background-color: #3498db;
+	height: 100%;
+	color: #ecf0f1;
+}
+
+.leftbar a {
+	color: #ecf0f1;
+	text-decoration: none;
+}
+
+.leftbar a:hover {
+	color: #F59D31;
+}
+
+.main-content {
+	border: solid 5px #ffffff;
+	max-width: 980px;
+	margin: 5 auto;
+	min-height: 85%;
+	/*background-color: #bdc3c7;*/
+	background-image: url('/images/greyplaid.png');
+	/*color: #ecf0f1; */
+	color: #FFFFFF;
+	padding: 10px;
+	font-size: 1.25em;
+}
+
+/*.main-content img {
+	width: 650px;
+	height: auto;
+	margin: 0px auto;
+}*/
+
+.orange {
+	color: #FC9817;
+}
+
+.orangebg {
+	background-color: #FC9817;
+}
+
+.orangebg:hover {
+	background-color: #feb251;
+}
+
+.unit-info tr {
+	color: #ffffff;
+}
+
+.unit-info tr:hover {
+	color: #000000;
+}
