@@ -15,7 +15,7 @@ $("document").ready(function(){
 		interval: 3000
 	});	
 	$('a').click(function(){
-		$('body').fadeOut();
+		$('.main-content').fadeOut('slow');
 		// $('.contact').delay(500).effect('slide',{direction:'right'});
 	})
 });
