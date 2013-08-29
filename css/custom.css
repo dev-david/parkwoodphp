@@ -7,12 +7,6 @@ li {
 	list-style: none;
 }
 
-table tr a {
-    display:block;
-    height:100%;
-    width:100%;
-}
-
 .brand-header {
 	/*border-bottom: 2px solid #34495e;*/
 	border-bottom: 2px solid #ffffff;
@@ -79,6 +73,7 @@ table tr a {
 	height: 71px;
 	width: auto;
 }
+
 
 .h-nice {
 	/*font-family: 'Bilbo Swash Caps', cursive;*/

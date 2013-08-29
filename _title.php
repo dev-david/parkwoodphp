@@ -10,13 +10,18 @@
 <script src="js/bootstrap.min.js"></script>
 <script type="text/javascript">
 $("document").ready(function(){
-	$('.main-content').delay(900).fadeIn();
 	$('.carousel').carousel({
 		interval: 3000
 	});	
-	$('a').click(function(){
-		$('.main-content').fadeOut('slow');
-		// $('.contact').delay(500).effect('slide',{direction:'right'});
-	})
+	$('.main-content-inner').css('display', 'none');
+	$('.main-content-inner').fadeIn(300);
+	$('a').click(function() {
+		event.preventDefault();
+		newLocation = this.href;
+		$('.main-content-inner').fadeOut(300, newpage);
+	});
+	function newpage() {
+		window.location = newLocation;
+	}
 });
 </script>

@@ -7,13 +7,15 @@
 <div class="container-fluid">
 	<div class="row-fluid">
 		<div class="main-content center">
-			<!-- ***** START CAROUSEL ***** -->
-			<?php include '_carousel.php' ?>
-			<!-- ***** END CAROUSEL ***** -->
-			<div class="brand-header">
-				<h2 class="h-nice">Parkwood Condos // Premium Condos in Oakland</h2>
-				<div class="clear"></div>
-			</div><br>
+			<div class="main-content-inner">
+				<!-- ***** START CAROUSEL ***** -->
+				<?php include '_carousel.php' ?>
+				<!-- ***** END CAROUSEL ***** -->
+				<div class="brand-header">
+					<h2 class="h-nice">Parkwood Condos // Premium Condos in Oakland</h2>
+					<div class="clear"></div>
+				</div><br>
+			</div>
 			<!-- ***** INCLUDE FOOTER FOR BUTTON LINKS AND BOTTOM LOGO ***** -->
 			<?php include '_footer.php' ?>
 		</div>
